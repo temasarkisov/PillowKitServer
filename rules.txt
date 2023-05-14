@@ -1,0 +1,25 @@
+{
+    'id': 'demoView',
+    'name': 'UIView',
+    'layout': {
+        'relative': {
+            'top': {
+                'by': {
+                    'id': 'demoView0',
+                    'anchor': 'bottom',
+                    'constant': 10,
+                }
+            },
+            'left': {
+                'by': {
+                    'id': 'demoView1',
+                    'anchor': 'right',
+                    'constant': 20,
+                }
+            },
+        },
+    },
+    'visual_properties': {
+        'backgorund_color': '#ffffff',
+    }
+}
