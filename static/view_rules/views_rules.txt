@@ -1,0 +1,283 @@
+views_rules = [
+        PKViewRules(
+            id='background_image_demo0',
+            view_type='image',
+            layout_config={
+                'left': {
+                    'id': 'container',
+                    'to': 'left',
+                    'constant': '0',
+                },
+                'top': {
+                    'id': 'container',
+                    'to': 'top',
+                    'constant': '0',
+                },
+                'right': {
+                    'id': 'container',
+                    'to': 'right',
+                    'constant': '0',
+                },
+                'bottom': {
+                    'id': 'container',
+                    'to': 'bottom',
+                    'constant': '0',
+                },
+            },
+            visual_properties={
+                'image_URL': 'http://127.0.0.1:5000/api/v1/background_image',
+            },
+            visual_effects=None,
+        ),
+        PKViewRules(
+            id='label_demo0',
+            view_type='label',
+            layout_config={
+                'left': {
+                    'id': 'container',
+                    'to': 'left',
+                    'constant': '20',
+                },
+                'height': {
+                    'constant': '25',
+                },
+                'width': {
+                    'constant': '300',
+                },
+                'bottom': {
+                    'id': 'card_demo0',
+                    'to': 'top',
+                    'constant': '0',
+                },
+            },
+            visual_properties={
+                'text': "Let's get to know each other?",
+                'text_color': '#000000ff',
+                'font': 'ALSSiriusVF_Medium',
+                'font_size': '20.0',
+                'text_alignment': 'left',
+
+                'background_color': '#00000000',
+            },
+            visual_effects=None,
+        ),
+        PKViewRules(
+            id='card_demo0',
+            view_type='label',
+            layout_config={
+                'left': {
+                    'id': 'container',
+                    'to': 'left',
+                    'constant': '0',
+                },
+                'top': {
+                    'id': 'container',
+                    'to': 'top',
+                    'constant': '350',
+                },
+                'right': {
+                    'id': 'container',
+                    'to': 'right',
+                    'constant': '0',
+                },
+                'bottom': {
+                    'id': 'text_field_demo3',
+                    'to': 'bottom',
+                    'constant': '20',
+                },
+            },
+            visual_properties={
+                'corner_radius': '25',
+                'background_color': '#ffffff00',
+            },
+            visual_effects=None,
+        ),
+        PKViewRules(
+            id='text_field_demo0',
+            view_type='text_field',
+            layout_config={
+                'left': {
+                    'id': 'card_demo0',
+                    'to': 'left',
+                    'constant': '10',
+                },
+                'top': {
+                    'id': 'card_demo0',
+                    'to': 'top',
+                    'constant': '20',
+                },
+                'right': {
+                    'id': 'card_demo0',
+                    'to': 'right',
+                    'constant': '-10',
+                },
+                'height': {
+                    'constant': '50',
+                },
+            },
+            visual_properties={
+                'placeholder': 'Name',
+                'font': 'ALSSiriusVF_Medium',
+                'font_size': '17.0',
+                'text_color': '#000000ff',
+                
+                'corner_radius': '15',
+                'border_color': '#000000ff',
+                'border_width': '1',
+            },
+            visual_effects=None,
+        ),
+        PKViewRules(
+            id='text_field_demo1',
+            view_type='text_field',
+            layout_config={
+                'left': {
+                    'id': 'card_demo0',
+                    'to': 'left',
+                    'constant': '10',
+                },
+                'top': {
+                    'id': 'text_field_demo0',
+                    'to': 'bottom',
+                    'constant': '20',
+                },
+                'right': {
+                    'id': 'card_demo0',
+                    'to': 'right',
+                    'constant': '-10',
+                },
+                'height': {
+                    'constant': '50',
+                },
+            },
+            visual_properties={
+                'placeholder': 'Surname',
+                'font': 'ALSSiriusVF_Medium',
+                'font_size': '17.0',
+                'text_color': '#000000ff',
+                
+                'corner_radius': '15',
+                'border_color': '#000000ff',
+                'border_width': '1',
+            },
+            visual_effects=None,
+        ),
+        PKViewRules(
+            id='text_field_demo2',
+            view_type='text_field',
+            layout_config={
+                'left': {
+                    'id': 'card_demo0',
+                    'to': 'left',
+                    'constant': '10',
+                },
+                'top': {
+                    'id': 'text_field_demo1',
+                    'to': 'bottom',
+                    'constant': '20',
+                },
+                'right': {
+                    'id': 'card_demo0',
+                    'to': 'right',
+                    'constant': '-10',
+                },
+                'height': {
+                    'constant': '50',
+                },
+            },
+            visual_properties={
+                'placeholder': 'Login',
+                'font': 'ALSSiriusVF_Medium',
+                'font_size': '17.0',
+                'text_color': '#000000ff',
+                
+                'corner_radius': '15',
+                'border_color': '#000000ff',
+                'border_width': '1',
+
+                'autocapitalization_type': 'false',
+                'autocorrection_type': 'false',
+            },
+            visual_effects=None,
+        ),
+        PKViewRules(
+            id='text_field_demo3',
+            view_type='text_field',
+            layout_config={
+                'left': {
+                    'id': 'card_demo0',
+                    'to': 'left',
+                    'constant': '10',
+                },
+                'top': {
+                    'id': 'text_field_demo2',
+                    'to': 'bottom',
+                    'constant': '20',
+                },
+                'right': {
+                    'id': 'card_demo0',
+                    'to': 'right',
+                    'constant': '-10',
+                },
+                'height': {
+                    'constant': '50',
+                },
+            },
+            visual_properties={
+                'placeholder': 'Password',
+                'font': 'ALSSiriusVF_Medium',
+                'font_size': '17.0',
+                'text_color': '#000000ff',
+                
+                'corner_radius': '15',
+                'border_color': '#000000ff',
+                'border_width': '1',
+
+                'autocapitalization_type': 'false',
+                'autocorrection_type': 'false',
+                'is_secure_text_entry': 'true',
+            },
+            visual_effects=None,
+        ),
+        PKViewRules(
+            id='button_demo0',
+            view_type='button',
+            layout_config={
+                'left': {
+                    'id': 'card_demo0',
+                    'to': 'left',
+                    'constant': '10',
+                },
+                'top': {
+                    'id': 'card_demo0',
+                    'to': 'bottom',
+                    'constant': '30',
+                },
+                'right': {
+                    'id': 'card_demo0',
+                    'to': 'right',
+                    'constant': '-10',
+                },
+                'height': {
+                    'constant': '50',
+                },
+            },
+            visual_properties={
+                'text': 'Continue',
+                'font': 'ALSSiriusVF_Medium',
+                'font_size': '17.0',
+                'text_color': '#ffffffff',
+                'text_alignment': 'center',
+                
+                'background_color': '#000000ff',
+                'corner_radius': '15',
+                'border_color': '#000000ff',
+                'border_width': '1',
+
+                'is_user_interaction_enabled': 'true',
+            },
+            visual_effects={
+                'tap_effect': 'pulse',
+            },
+        ),
+    ]

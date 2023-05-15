@@ -13,5 +13,5 @@ def to_error_JSON(reason: str):
     }
     return to_JSON(data)
 
-def load_to_JSON(data):
-    return json.loads(data)
+def load_JSON(data):
+    return json.load(data)
