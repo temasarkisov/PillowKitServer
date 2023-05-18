@@ -18,7 +18,7 @@ def background_image():
 
 @app.route('/api/v1/update_views_rules')
 def update_views():
-    f = open('static/view_rules/views_rules.json')
+    f = open('static/views_data/views_data.json')
     data = load_JSON(f)
     views_rules = data['views_rules']
 
