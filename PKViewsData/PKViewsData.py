@@ -21,8 +21,8 @@ class PKViewsData(PKViewsDataProtocol):
         self, 
         views_rules: Dict,
     ) -> None:
+        self.views_rules = []
         for view_id in views_rules:
-            print('huy', view_id)
             self.views_rules.append(
                 self.view_rules_builder.build(
                     view_id=view_id,

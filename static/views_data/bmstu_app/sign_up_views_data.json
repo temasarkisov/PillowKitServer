@@ -1,0 +1,273 @@
+{
+    "views_rules": {
+        "background_image": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "container",
+                    "to": "top",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "bottom": {
+                    "id": "container",
+                    "to": "bottom",
+                    "constant": "0"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/sign_up_background_image"
+            }
+        },
+        "hello_label": {
+            "view_type": "label",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "28"
+                },
+                "height": {
+                    "constant": "25"
+                },
+                "width": {
+                    "constant": "300"
+                },
+                "bottom": {
+                    "id": "input_card",
+                    "to": "top",
+                    "constant": "0"
+                }
+            },
+            "visual_properties": {
+                "text": "",
+                "text_color": "#000000ff",
+                "font": "ALSSiriusVF_Medium",
+                "font_size": "20.0",
+                "text_alignment": "left",
+
+                "background_color": "#00000000"
+            }
+        },
+        "input_card": {
+            "view_type": "label",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "container",
+                    "to": "top",
+                    "constant": "300"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "bottom": {
+                    "id": "password_text_field",
+                    "to": "bottom",
+                    "constant": "0"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#00000000"
+            }
+        },
+        "name_text_field": {
+            "view_type": "text_field",
+            "layout_config": {
+                "left": {
+                    "id": "input_card",
+                    "to": "left",
+                    "constant": "10"
+                },
+                "top": {
+                    "id": "input_card",
+                    "to": "top",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "input_card",
+                    "to": "right",
+                    "constant": "-10"
+                },
+                "height": {
+                    "constant": "50"
+                }
+            },
+            "visual_properties": {
+                "placeholder": "Имя",
+                "font": "ALSSiriusVF_Medium",
+                "font_size": "17.0",
+                "text_color": "#000000ff",
+                
+                "background_color": "#ffffffcc",
+                "corner_radius": "15",
+                "border_color": "#000000ff",
+                "border_width": "1"
+            }
+        },
+        "surname_text_field": {
+            "view_type": "text_field",
+            "layout_config": {
+                "left": {
+                    "id": "input_card",
+                    "to": "left",
+                    "constant": "10"
+                },
+                "top": {
+                    "id": "name_text_field",
+                    "to": "bottom",
+                    "constant": "28"
+                },
+                "right": {
+                    "id": "input_card",
+                    "to": "right",
+                    "constant": "-10"
+                },
+                "height": {
+                    "constant": "50"
+                }
+            },
+            "visual_properties": {
+                "placeholder": "Фамилия",
+                "font": "ALSSiriusVF_Medium",
+                "font_size": "17.0",
+                "text_color": "#000000ff",
+                
+                "background_color": "#ffffffcc",
+                "corner_radius": "15",
+                "border_color": "#000000ff",
+                "border_width": "1"
+            }
+        },
+        "login_text_field": {
+            "view_type": "text_field",
+            "layout_config": {
+                "left": {
+                    "id": "input_card",
+                    "to": "left",
+                    "constant": "10"
+                },
+                "top": {
+                    "id": "surname_text_field",
+                    "to": "bottom",
+                    "constant": "28"
+                },
+                "right": {
+                    "id": "input_card",
+                    "to": "right",
+                    "constant": "-10"
+                },
+                "height": {
+                    "constant": "50"
+                }
+            },
+            "visual_properties": {
+                "placeholder": "Логин",
+                "font": "ALSSiriusVF_Medium",
+                "font_size": "17.0",
+                "text_color": "#000000ff",
+                
+                "background_color": "#ffffffcc",
+                "corner_radius": "15",
+                "border_color": "#000000ff",
+                "border_width": "1",
+
+                "autocapitalization_type": "false",
+                "autocorrection_type": "false"
+            }
+        },
+        "password_text_field": {
+            "view_type": "text_field",
+            "layout_config": {
+                "left": {
+                    "id": "input_card",
+                    "to": "left",
+                    "constant": "10"
+                },
+                "top": {
+                    "id": "login_text_field",
+                    "to": "bottom",
+                    "constant": "28"
+                },
+                "right": {
+                    "id": "input_card",
+                    "to": "right",
+                    "constant": "-10"
+                },
+                "height": {
+                    "constant": "50"
+                }
+            },
+            "visual_properties": {
+                "placeholder": "Пароль",
+                "font": "ALSSiriusVF_Medium",
+                "font_size": "17.0",
+                "text_color": "#000000ff",
+                
+                "background_color": "#ffffffcc",
+                "corner_radius": "15",
+                "border_color": "#000000ff",
+                "border_width": "1",
+
+                "autocapitalization_type": "false",
+                "autocorrection_type": "false",
+                "is_secure_text_entry": "true"
+            }
+        },
+        "continue_button": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "input_card",
+                    "to": "left",
+                    "constant": "10"
+                },
+                "top": {
+                    "id": "input_card",
+                    "to": "bottom",
+                    "constant": "120"
+                },
+                "right": {
+                    "id": "input_card",
+                    "to": "right",
+                    "constant": "-10"
+                },
+                "height": {
+                    "constant": "50"
+                }
+            },
+            "visual_properties": {
+                "text": "Продолжить",
+                "font": "ALSSiriusVF_Medium",
+                "font_size": "17.0",
+                "text_color": "#ffffffff",
+                "text_alignment": "center",
+                
+                "background_color": "#000000ff",
+                "corner_radius": "15",
+                "border_color": "#000000ff",
+                "border_width": "1",
+
+                "is_user_interaction_enabled": "true"
+            },
+            "visual_effects": {
+                "tap_effect": "pulse"
+            }
+        }
+    }
+}
