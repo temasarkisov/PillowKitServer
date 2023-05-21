@@ -1,0 +1,5204 @@
+{
+    "views_rules": {
+        "image_0": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "container",
+                    "to": "top",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_1": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_0",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_2": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_1",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_3": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_2",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_4": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_3",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_5": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_4",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_6": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_5",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_7": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_6",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_8": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_7",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_9": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_8",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_10": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_9",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_11": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_10",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_12": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_11",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_13": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_12",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_14": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_13",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_15": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_14",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_16": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_15",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_17": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_16",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_18": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_17",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_19": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_18",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_20": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_19",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_21": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_20",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_22": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_21",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_23": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_22",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_24": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_23",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_25": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_24",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_26": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_25",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_27": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_26",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_28": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_27",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_29": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_28",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_30": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_29",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_31": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_30",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_32": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_31",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_33": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_32",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_34": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_33",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_35": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_34",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_36": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_35",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_37": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_36",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_38": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_37",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_39": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_38",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_40": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_39",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_41": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_40",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_42": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_41",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_43": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_42",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_44": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_43",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_45": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_44",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_46": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_45",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_47": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_46",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_48": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_47",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_49": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_48",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_50": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_49",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_51": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_50",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_52": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_51",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_53": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_52",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_54": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_53",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_55": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_54",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_56": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_55",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_57": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_56",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_58": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_57",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_59": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_58",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_60": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_59",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_61": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_60",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_62": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_61",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_63": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_62",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_64": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_63",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_65": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_64",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_66": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_65",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_67": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_66",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_68": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_67",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_69": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_68",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_70": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_69",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_71": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_70",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_72": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_71",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_73": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_72",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_74": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_73",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_75": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_74",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_76": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_75",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_77": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_76",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_78": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_77",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_79": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_78",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_80": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_79",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_81": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_80",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_82": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_81",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_83": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_82",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_84": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_83",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_85": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_84",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_86": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_85",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_87": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_86",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_88": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_87",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_89": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_88",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_90": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_89",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_91": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_90",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_92": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_91",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_93": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_92",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_94": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_93",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_95": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_94",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_96": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_95",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_97": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_96",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_98": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_97",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_99": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_98",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_100": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_99",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_101": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_100",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_102": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_101",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_103": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_102",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_104": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_103",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_105": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_104",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_106": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_105",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_107": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_106",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_108": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_107",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_109": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_108",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_110": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_109",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_111": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_110",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_112": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_111",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_113": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_112",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_114": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_113",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_115": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_114",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_116": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_115",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_117": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_116",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_118": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_117",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_119": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_118",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_120": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_119",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_121": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_120",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_122": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_121",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_123": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_122",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_124": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_123",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_125": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_124",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_126": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_125",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_127": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_126",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_128": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_127",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_129": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_128",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_130": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_129",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_131": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_130",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_132": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_131",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_133": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_132",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_134": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_133",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_135": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_134",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_136": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_135",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_137": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_136",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_138": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_137",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_139": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_138",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_140": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_139",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_141": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_140",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_142": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_141",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_143": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_142",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_144": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_143",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_145": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_144",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_146": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_145",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_147": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_146",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_148": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_147",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_149": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_148",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_150": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_149",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_151": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_150",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_152": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_151",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_153": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_152",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_154": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_153",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_155": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_154",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_156": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_155",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_157": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_156",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_158": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_157",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_159": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_158",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_160": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_159",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_161": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_160",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_162": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_161",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_163": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_162",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_164": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_163",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_165": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_164",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_166": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_165",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_167": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_166",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_168": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_167",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_169": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_168",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_170": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_169",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_171": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_170",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_172": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_171",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_173": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_172",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_174": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_173",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_175": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_174",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_176": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_175",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_177": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_176",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_178": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_177",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_179": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_178",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_180": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_179",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_181": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_180",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_182": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_181",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_183": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_182",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_184": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_183",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_185": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_184",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_186": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_185",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_187": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_186",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_188": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_187",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_189": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_188",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_190": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_189",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_191": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_190",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_192": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_191",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_193": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_192",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_194": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_193",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_195": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_194",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_196": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_195",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_197": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_196",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_198": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_197",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        },
+        "image_199": {
+            "view_type": "image",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "image_198",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "4.22"
+                }
+            },
+            "visual_properties": {
+                "image_URL": "http://127.0.0.1:5000/api/v1/research_image"
+            }
+        }
+    }
+}

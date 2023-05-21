@@ -1,0 +1,1304 @@
+{
+    "views_rules": {
+        "button_0": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "container",
+                    "to": "top",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#355668ff"
+            }
+        },
+        "button_1": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_0",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#6192acff"
+            }
+        },
+        "button_2": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_1",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#d21284ff"
+            }
+        },
+        "button_3": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_2",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#437787ff"
+            }
+        },
+        "button_4": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_3",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#c99df2ff"
+            }
+        },
+        "button_5": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_4",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#094f72ff"
+            }
+        },
+        "button_6": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_5",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#184aceff"
+            }
+        },
+        "button_7": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_6",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#b268d5ff"
+            }
+        },
+        "button_8": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_7",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#71e4a8ff"
+            }
+        },
+        "button_9": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_8",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#d433e5ff"
+            }
+        },
+        "button_10": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_9",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#4cffb4ff"
+            }
+        },
+        "button_11": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_10",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#d02cddff"
+            }
+        },
+        "button_12": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_11",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#07894aff"
+            }
+        },
+        "button_13": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_12",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#0282e8ff"
+            }
+        },
+        "button_14": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_13",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#69f2dcff"
+            }
+        },
+        "button_15": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_14",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#2ba5d1ff"
+            }
+        },
+        "button_16": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_15",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#3c78e8ff"
+            }
+        },
+        "button_17": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_16",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#a5421cff"
+            }
+        },
+        "button_18": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_17",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#c37625ff"
+            }
+        },
+        "button_19": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_18",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#e3d70bff"
+            }
+        },
+        "button_20": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_19",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#8ba797ff"
+            }
+        },
+        "button_21": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_20",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#f3b8e1ff"
+            }
+        },
+        "button_22": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_21",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#3d8195ff"
+            }
+        },
+        "button_23": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_22",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#186d8dff"
+            }
+        },
+        "button_24": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_23",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#ab13d9ff"
+            }
+        },
+        "button_25": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_24",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#67afd3ff"
+            }
+        },
+        "button_26": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_25",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#841379ff"
+            }
+        },
+        "button_27": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_26",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#daa162ff"
+            }
+        },
+        "button_28": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_27",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#09b015ff"
+            }
+        },
+        "button_29": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_28",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#a2fa61ff"
+            }
+        },
+        "button_30": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_29",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#7fa1a4ff"
+            }
+        },
+        "button_31": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_30",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#cb223bff"
+            }
+        },
+        "button_32": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_31",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#f95cbbff"
+            }
+        },
+        "button_33": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_32",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#bb121fff"
+            }
+        },
+        "button_34": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_33",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#ca40cfff"
+            }
+        },
+        "button_35": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_34",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#2259f4ff"
+            }
+        },
+        "button_36": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_35",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#69b5ebff"
+            }
+        },
+        "button_37": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_36",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#83bbf4ff"
+            }
+        },
+        "button_38": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_37",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#48add2ff"
+            }
+        },
+        "button_39": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_38",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#296429ff"
+            }
+        },
+        "button_40": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_39",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#3c004aff"
+            }
+        },
+        "button_41": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_40",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#c82176ff"
+            }
+        },
+        "button_42": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_41",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#3fc9a0ff"
+            }
+        },
+        "button_43": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_42",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#fdbf80ff"
+            }
+        },
+        "button_44": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_43",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#0b5378ff"
+            }
+        },
+        "button_45": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_44",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#04ffaeff"
+            }
+        },
+        "button_46": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_45",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#72d6f7ff"
+            }
+        },
+        "button_47": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_46",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#3d818eff"
+            }
+        },
+        "button_48": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_47",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#bce3d4ff"
+            }
+        },
+        "button_49": {
+            "view_type": "button",
+            "layout_config": {
+                "left": {
+                    "id": "container",
+                    "to": "left",
+                    "constant": "0"
+                },
+                "top": {
+                    "id": "button_48",
+                    "to": "bottom",
+                    "constant": "0"
+                },
+                "right": {
+                    "id": "container",
+                    "to": "right",
+                    "constant": "0"
+                },
+                "height": {
+                    "constant": "16.88"
+                }
+            },
+            "visual_properties": {
+                "background_color": "#20d7f4ff"
+            }
+        }
+    }
+}

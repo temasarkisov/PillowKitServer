@@ -117,7 +117,10 @@
                 "background_color": "#ffffffcc",
                 "corner_radius": "15",
                 "border_color": "#000000ff",
-                "border_width": "1"
+                "border_width": "1",
+
+                "autocapitalization_type": "false",
+                "autocorrection_type": "false"
             }
         },
         "password_text_field": {
@@ -151,7 +154,11 @@
                 "background_color": "#ffffffcc",
                 "corner_radius": "15",
                 "border_color": "#000000ff",
-                "border_width": "1"
+                "border_width": "1",
+
+                "autocapitalization_type": "false",
+                "autocorrection_type": "false",
+                "is_secure_text_entry": "true"
             }
         },
         "sign_in_button": {
