@@ -64,7 +64,7 @@ def research_image():
 
 @app.route('/api/v1/update_research_views_data')
 def update_research_views_data():
-    f = open('research/views_data/text_field_100_views_data.json')
+    f = open('research/views_data/button_500_views_data.json')
     data = load_JSON(f)
     views_rules = data['views_rules']
 

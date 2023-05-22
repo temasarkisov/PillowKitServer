@@ -28,7 +28,7 @@ if __name__ == '__main__':
         x = []
         y = []
 
-        with open(f'results/{view_type}s_results.json', 'r') as f:
+        with open(f'results/time_to_process_rules/{view_type}s_results.json', 'r') as f:
             data_dict = json.load(f)
 
         for key in data_dict:
@@ -43,9 +43,12 @@ if __name__ == '__main__':
             label=obtain_label(view_type=view_type),
         )
 
+
+    # plt.xticks(range(0, 101, 10))
     plt.xlabel('Кол-во объектов структуры правил отображения')
-    plt.ylabel('Время создания объектов классов графических компонент')
-    # plt.title('График времени обработки правил отображения графических компонент для разных типов графических компонент ')
+    # plt.ylabel('Время создания объектов классов графических компонент (с)')
+    plt.ylabel('Время обработки правил отображения (с)')
+    # plt.title('График времени обработки правил отображения графических компонент для разных типов графических компонент')
     plt.legend()
 
-    plt.savefig(f'plots/result_plot')
+    plt.savefig(f'plots/time_to_process_rules.png')
