@@ -25,7 +25,7 @@
                 }
             },
             "visual_properties": {
-                "image_URL": "http://127.0.0.1:5000/api/v1/sign_up_background_image"
+                "image_URL": "http://62.84.114.142:5000/api/v1/sign_up_background_image"
             }
         },
         "hello_label": {
@@ -54,7 +54,6 @@
                 "font": "ALSSiriusVF_Medium",
                 "font_size": "20.0",
                 "text_alignment": "left",
-
                 "background_color": "#00000000"
             }
         },
@@ -113,7 +112,6 @@
                 "font": "ALSSiriusVF_Medium",
                 "font_size": "17.0",
                 "text_color": "#000000ff",
-                
                 "background_color": "#ffffffcc",
                 "corner_radius": "15",
                 "border_color": "#000000ff",
@@ -147,7 +145,6 @@
                 "font": "ALSSiriusVF_Medium",
                 "font_size": "17.0",
                 "text_color": "#000000ff",
-                
                 "background_color": "#ffffffcc",
                 "corner_radius": "15",
                 "border_color": "#000000ff",
@@ -181,12 +178,10 @@
                 "font": "ALSSiriusVF_Medium",
                 "font_size": "17.0",
                 "text_color": "#000000ff",
-                
                 "background_color": "#ffffffcc",
                 "corner_radius": "15",
                 "border_color": "#000000ff",
                 "border_width": "1",
-
                 "autocapitalization_type": "false",
                 "autocorrection_type": "false"
             }
@@ -218,12 +213,10 @@
                 "font": "ALSSiriusVF_Medium",
                 "font_size": "17.0",
                 "text_color": "#000000ff",
-                
                 "background_color": "#ffffffcc",
                 "corner_radius": "15",
                 "border_color": "#000000ff",
                 "border_width": "1",
-
                 "autocapitalization_type": "false",
                 "autocorrection_type": "false",
                 "is_secure_text_entry": "true"
@@ -257,12 +250,10 @@
                 "font_size": "17.0",
                 "text_color": "#ffffffff",
                 "text_alignment": "center",
-                
                 "background_color": "#000000ff",
                 "corner_radius": "15",
                 "border_color": "#000000ff",
                 "border_width": "1",
-
                 "is_user_interaction_enabled": "true"
             },
             "visual_effects": {

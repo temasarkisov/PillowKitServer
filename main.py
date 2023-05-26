@@ -3,6 +3,7 @@ from PKViewRulesBuilder.PKViewRulesBuilder import PKViewRulesBuilder
 from PKUtils.JSON_manager import to_JSON, load_JSON
 
 from flask import Flask, send_file
+import os
 
 
 app = Flask(__name__)
@@ -75,4 +76,9 @@ def update_research_views_data():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(
+        debug=True, 
+        host='0.0.0.0', 
+        port=port,
+    )
