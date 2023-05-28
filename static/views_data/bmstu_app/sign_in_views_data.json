@@ -25,7 +25,7 @@
                 }
             },
             "visual_properties": {
-                "image_URL": "http://62.84.114.142:5000/api/v1/sign_in_background_image"
+                "image_URL": "http://62.84.114.142:5000/api/v1/image/static?name=background_image_blue"
             }
         },
         "hello_label": {

@@ -151,39 +151,6 @@
                 "border_width": "1"
             }
         },
-        "middle_name_text_field": {
-            "view_type": "text_field",
-            "layout_config": {
-                "left": {
-                    "id": "input_card",
-                    "to": "left",
-                    "constant": "10"
-                },
-                "top": {
-                    "id": "surname_text_field",
-                    "to": "bottom",
-                    "constant": "28"
-                },
-                "right": {
-                    "id": "input_card",
-                    "to": "right",
-                    "constant": "-10"
-                },
-                "height": {
-                    "constant": "50"
-                }
-            },
-            "visual_properties": {
-                "placeholder": "Отчество",
-                "font": "ALSSiriusVF_Medium",
-                "font_size": "17.0",
-                "text_color": "#000000ff",
-                "background_color": "#ffffffcc",
-                "corner_radius": "15",
-                "border_color": "#000000ff",
-                "border_width": "1"
-            }
-        },
         "login_text_field": {
             "view_type": "text_field",
             "layout_config": {
@@ -193,7 +160,7 @@
                     "constant": "10"
                 },
                 "top": {
-                    "id": "middle_name_text_field",
+                    "id": "surname_text_field",
                     "to": "bottom",
                     "constant": "28"
                 },
