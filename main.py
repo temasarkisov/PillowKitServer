@@ -31,7 +31,7 @@ def image_from_static():
 def update_views_data():
     args = request.args
     print(args.get('name'))
-    name = args.get('name') + '.json'
+    name = args.get('name') + '_o.json'
     json_path = os.path.join('static/views_data/bmstu_app', name)
     
     f = open(json_path)
@@ -52,7 +52,6 @@ if __name__ == '__main__':
                 if os.path.isfile(filename):
                     extra_files.append(filename)
     
-    print(extra_files)
     port = int(os.environ.get('PORT', 5000))
     
     app.run(

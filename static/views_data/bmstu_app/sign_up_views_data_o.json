@@ -25,7 +25,7 @@
                 }
             },
             "visual_properties": {
-                "image_URL": "http://62.84.114.142:5000/api/v1/image/static?name=sign_in_background_image"
+                "image_URL": "http://62.84.114.142:5000/api/v1/image/static?name=blue_background_image"
             }
         },
         "hello_label": {
@@ -68,7 +68,7 @@
                 "top": {
                     "id": "container",
                     "to": "top",
-                    "constant": "378"
+                    "constant": "150"
                 },
                 "right": {
                     "id": "container",
@@ -85,7 +85,7 @@
                 "background_color": "#00000000"
             }
         },
-        "login_text_field": {
+        "name_text_field": {
             "view_type": "text_field",
             "layout_config": {
                 "left": {
@@ -108,12 +108,111 @@
                 }
             },
             "visual_properties": {
+                "placeholder": "Имя",
+                "font": "ALSSiriusVF_Medium",
+                "font_size": "17.0",
+                "text_color": "#000000ff",
+                "background_color": "#ffffffcc",
+                "corner_radius": "5",
+                "border_color": "#000000ff",
+                "border_width": "1"
+            }
+        },
+        "surname_text_field": {
+            "view_type": "text_field",
+            "layout_config": {
+                "left": {
+                    "id": "input_card",
+                    "to": "left",
+                    "constant": "10"
+                },
+                "top": {
+                    "id": "name_text_field",
+                    "to": "bottom",
+                    "constant": "28"
+                },
+                "right": {
+                    "id": "input_card",
+                    "to": "right",
+                    "constant": "-10"
+                },
+                "height": {
+                    "constant": "50"
+                }
+            },
+            "visual_properties": {
+                "placeholder": "Фамилия",
+                "font": "ALSSiriusVF_Medium",
+                "font_size": "17.0",
+                "text_color": "#000000ff",
+                "background_color": "#ffffffcc",
+                "corner_radius": "5",
+                "border_color": "#000000ff",
+                "border_width": "1"
+            }
+        },
+        "middle_name_text_field": {
+            "view_type": "text_field",
+            "layout_config": {
+                "left": {
+                    "id": "input_card",
+                    "to": "left",
+                    "constant": "10"
+                },
+                "top": {
+                    "id": "surname_text_field",
+                    "to": "bottom",
+                    "constant": "28"
+                },
+                "right": {
+                    "id": "input_card",
+                    "to": "right",
+                    "constant": "-10"
+                },
+                "height": {
+                    "constant": "50"
+                }
+            },
+            "visual_properties": {
+                "placeholder": "Отчество",
+                "font": "ALSSiriusVF_Medium",
+                "font_size": "17.0",
+                "text_color": "#000000ff",
+                "background_color": "#ffffffcc",
+                "corner_radius": "5",
+                "border_color": "#000000ff",
+                "border_width": "1"
+            }
+        },
+        "login_text_field": {
+            "view_type": "text_field",
+            "layout_config": {
+                "left": {
+                    "id": "input_card",
+                    "to": "left",
+                    "constant": "10"
+                },
+                "top": {
+                    "id": "middle_name_text_field",
+                    "to": "bottom",
+                    "constant": "28"
+                },
+                "right": {
+                    "id": "input_card",
+                    "to": "right",
+                    "constant": "-10"
+                },
+                "height": {
+                    "constant": "50"
+                }
+            },
+            "visual_properties": {
                 "placeholder": "Логин",
                 "font": "ALSSiriusVF_Medium",
                 "font_size": "17.0",
                 "text_color": "#000000ff",
                 "background_color": "#ffffffcc",
-                "corner_radius": "15",
+                "corner_radius": "5",
                 "border_color": "#000000ff",
                 "border_width": "1",
                 "autocapitalization_type": "false",
@@ -148,7 +247,7 @@
                 "font_size": "17.0",
                 "text_color": "#000000ff",
                 "background_color": "#ffffffcc",
-                "corner_radius": "15",
+                "corner_radius": "5",
                 "border_color": "#000000ff",
                 "border_width": "1",
                 "autocapitalization_type": "false",
@@ -156,7 +255,7 @@
                 "is_secure_text_entry": "true"
             }
         },
-        "sign_in_button": {
+        "continue_button": {
             "view_type": "button",
             "layout_config": {
                 "left": {
@@ -164,66 +263,34 @@
                     "to": "left",
                     "constant": "10"
                 },
-                "top": {
-                    "id": "input_card",
-                    "to": "bottom",
-                    "constant": "120"
-                },
                 "right": {
                     "id": "input_card",
                     "to": "right",
                     "constant": "-10"
+                },
+                "bottom": {
+                    "id": "container",
+                    "to": "bottom",
+                    "constant": "-150"
                 },
                 "height": {
                     "constant": "50"
                 }
             },
             "visual_properties": {
-                "text": "Войти",
+                "text": "Продолжить",
                 "font": "ALSSiriusVF_Medium",
                 "font_size": "17.0",
                 "text_color": "#ffffffff",
                 "text_alignment": "center",
                 "background_color": "#000000ff",
-                "corner_radius": "15",
+                "corner_radius": "5",
                 "border_color": "#000000ff",
                 "border_width": "1",
                 "is_user_interaction_enabled": "true"
             },
             "visual_effects": {
                 "tap_effect": "pulse"
-            }
-        },
-        "sign_up_button": {
-            "view_type": "button",
-            "layout_config": {
-                "left": {
-                    "id": "input_card",
-                    "to": "left",
-                    "constant": "10"
-                },
-                "top": {
-                    "id": "sign_in_button",
-                    "to": "bottom",
-                    "constant": "10"
-                },
-                "right": {
-                    "id": "input_card",
-                    "to": "right",
-                    "constant": "-10"
-                },
-                "height": {
-                    "constant": "50"
-                }
-            },
-            "visual_properties": {
-                "text": "У меня нет аккаунта",
-                "font": "ALSSiriusVF_Medium",
-                "font_size": "17.0",
-                "text_color": "#000000ff",
-                "text_alignment": "center",
-                "background_color": "#ffffffff",
-                "is_user_interaction_enabled": "true"
             }
         }
     }
